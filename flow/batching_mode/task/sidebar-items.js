@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DirtyRestore"],"fn":["determine_query_type","is_merge_mode_last_non_null"],"struct":["BatchingTask","PlanInfo","TaskArgs","TaskConfig"]};
